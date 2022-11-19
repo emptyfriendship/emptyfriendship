@@ -16,7 +16,4 @@
 
 
 
-
-![
-emptyfriendship's github stats](https://github-readme-stats.vercel.app/api?username=
-emptyfriendship&show_icons=true)
+![emptyfriendship's github stats](https://github-readme-stats.vercel.app/api?username=emptyfriendship&show_icons=true)
